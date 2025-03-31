@@ -12,7 +12,7 @@ PRABATH-MD~7DRQBSTY#twRSagMcojakN0ERQ1mNdQW2KZH07-t91h_mWVp8Qd8
 * @version 2.0.6
 
 © 2023 Prabath Kumara, SACHI-BOT. All rights reserved.
-Licensed under the  GPL-3.0 License;
+Licensed under the  GPL-3.0 License;PRABATH-MD~7DRQBSTY#twRSagMcojakN0ERQ1mNdQW2KZH07-t91h_mWVp8Qd8
 you may not use this file except in compliance with the License.*/PRABATH-MD~7DRQBSTY#twRSagMcojakN0ERQ1mNdQW2KZH07-t91h_mWVp8Qd8
 
 
